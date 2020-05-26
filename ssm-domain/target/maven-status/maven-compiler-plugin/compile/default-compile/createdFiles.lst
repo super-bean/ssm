@@ -1,0 +1,8 @@
+com\lc\domain\Traveller.class
+com\lc\domain\Member.class
+com\lc\domain\Permission.class
+com\lc\domain\Orders.class
+com\lc\domain\Product.class
+com\lc\domain\Role.class
+com\lc\domain\SysLog.class
+com\lc\domain\UserInfo.class
